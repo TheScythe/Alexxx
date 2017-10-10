@@ -1,2 +1,1 @@
-# Alexxx
-Little about me, website.
+# Throwing random codes into Atom and hoping something good comes out. Hurray~!
